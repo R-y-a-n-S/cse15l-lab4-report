@@ -1,7 +1,7 @@
 # Lab 4 Report 
 **Step 4:** After opening the terminal, I used the command `ssh cs15wi23ajj@ieng6.ucsd.edu` to login to the remote server. 
 
-<img src="login.PNG" width="800">
+<img src="login2.PNG" width="400">
 
 As can be seen on the screenshot, the command logged me into the ieng6 remote server. 
 
